@@ -108,8 +108,3 @@ INSERT INTO personetelefoni(idpersonatelefono,idpersona,idtelefono) values (512,
 INSERT INTO personetelefoni(idpersonatelefono,idpersona,idtelefono) values (513,6,411);
 INSERT INTO personetelefoni(idpersonatelefono,idpersona,idtelefono) values (514,10,412);
 INSERT INTO personetelefoni(idpersonatelefono,idpersona,idtelefono) values (515,1,413);
-
-
-
-
-
